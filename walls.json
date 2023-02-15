@@ -22,41 +22,41 @@
     {
         "name": "bored",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/bored.jpg"
     },
     {
         "name": "catch",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/catch.jpg"
     },
     {
         "name": "convoluted",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/convoluted.jpg"
     },
     {
         "name": "delightful",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/delightful.jpg"
     },
     {
         "name": "childish light",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/childish_light.jpg"
     },
     {
         "name": "childish dark",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/childish_dark.jpg"
     },
     {
-        "name": "instinct white",
+        "name": "instinct light",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/instinct_light.jpg"
     },
     {
-        "name": "instinct black",
+        "name": "instinct dark",
         "author": "cafreo",
-        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/instinct_dark.jpg"
     },
 ]
