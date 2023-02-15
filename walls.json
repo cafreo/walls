@@ -2,7 +2,7 @@
     {
       "name": "dryquidity",
       "author": "cafreo",
-      "url": "xxxxxxxxxxxxxxxxx"
+      "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/dryquidity.jpg"
     },
     {
         "name": "cloud",
@@ -19,4 +19,44 @@
         "author": "cafreo",
         "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/intergalactic.jpg"
     }
+    {
+        "name": "bored",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
+    {
+        "name": "catch",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
+    {
+        "name": "convoluted",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
+    {
+        "name": "delightful",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
+    {
+        "name": "childish light",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
+    {
+        "name": "childish dark",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
+    {
+        "name": "instinct white",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
+    {
+        "name": "instinct black",
+        "author": "cafreo",
+        "url": "https://raw.githubusercontent.com/whosthispuppy/walls/master/5th_dimension.jpg"
+    },
 ]
